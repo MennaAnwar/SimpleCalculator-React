@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(
+    150deg,
+    #f9d3e6 0%,
+    #e6d3f9 50%,
+    #cea0f1 50%,
+    #a0bdf1 100%
+  );
+}
